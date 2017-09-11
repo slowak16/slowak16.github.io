@@ -1,15 +1,16 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html lang="pl">
 <head>
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE-edge,chrome=1" />
 		
-		<title>Strona bez znaczenia</title>
+		<title>Proszę tu nie zaglądać >:(</title>
 		
 		<meta name="decription" content="przypadkowa strona-przypadkowy opis" />
-		<meta name="keywords" content="�ycie, jest, bez, sensu, lol, omg, ale, faza, robiem, stronkem" />
+		<meta name="keywords" content="życie, jest, bez, sensu, lol, omg, ale, faza, robiem, stronkem" />
 		
  		<link rel="stylesheet" href="style.css" type="text/css" />
+ 		<link rel="stylesheet" href="fontello.css" type="text/css" />
 		<link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Lato&amp;subset=latin-ext" rel="stylesheet" type="text/css">
 	</head>
 
@@ -19,41 +20,57 @@
 		
 			<div class="rectangle">
 			
-				<div id="logo">Jan Kowalski</div>
+				<div id="logo">Kacper Wiśniewski</div>
 			
-				<div id="zegar">15:17:15</div>
+				<div id="zegar">Memil Poróg</div>
 			
 			</div>				
 
 			<div class="square" >
-				<div class="tile1">1</div>
+				<div class="tile1"></div>
 				
-				<div class="tile1">1</div>
+				<div class="tile1"></div>
 				
 				<div style="clear: both;"></div>
 				
 				
-				<div class="tile2">2</div>
-				<div class="tile3">3</div>
+				<div class="tile2"></div>
+				
+				<div class="tile3"></div>
+				
 				<div style="clear:both;"></div>
 				
-				<div class="tile4">4</div>
+				<div class="tile4"></div>
 				
 			</div>
-			
+		
 			<div class="square" >
 			
-				<div class="tile5">5</div>
+			<div class="tile5"><b>Powody, dla których warto żyć:</b></br></br>
+			<font size=4>
+			1. Kacper Demange </br>
+			2."Włosy Kacpra Demange"</br>
+			3."Plejsy Kaynem Stolpa"</br>		
+			4. Plejsy Kacpra też</br>
+			5. Kiedy Kacper jest pijany</br>	
+			6. Saga Zmierzch</br>
+			7. Yasuo w samo południe</br>		
+			8. siostra Kacpra D.</br>
+			9.M jak Miłość</br>	
+			10.mefedron O.O</br>
+			</font>
+			
+			</div>
+				
+			</div>	
+				
+				<a class="html5" href="https://www.youtube.com/" target="_blank"><div class="yt"><i class="icon-youtube"></i></div></a>
+			    
+				<a class="html5" href="https://www.facebook.com/" target="_blank"><div class="fb"><i class="icon-facebook-squared"></i></div></a>
 				
 			</div>
 			
-		
-				<div style="clear: both;" ></div>
-
-			<div class="rectangle"></div>
-
-
-
-</body>
-
-</html>
+				<div style="clear:both;"></div>
+			
+			<div class="stopka">2017 &copy; - projekt internetowej współfinansowany ze środków Unii Europejskiej ( i zarobków Kacpra) </div>
+	
